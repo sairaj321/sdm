@@ -1,0 +1,2 @@
+Docker build -t node-app:ls
+DOcker run -d -p 5000:9999 node-app:ls
